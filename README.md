@@ -3,6 +3,8 @@
 A repo demonstrating an issue found when using [JSON Patch](https://tools.ietf.org/html/rfc6902) media type in 
 [Spring Data REST](https://spring.io/projects/spring-data-rest) PATCH requests for updating associated resources.
 
+See question posted in [stackoverflow](https://stackoverflow.com/questions/55151925/spring-data-rest-unable-to-update-association-using-json-patch).
+
 
 ## Entities
 
